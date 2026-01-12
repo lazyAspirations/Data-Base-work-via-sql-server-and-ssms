@@ -1,0 +1,8 @@
+SELECT TOP (1000) [Matricule]
+      ,[Nom]
+      ,[Prenom]
+      ,[DateNaissance]
+      ,[Adresse]
+      ,[NivEtude]
+      ,[Groupe]
+  FROM [Universite].[dbo].[Etudiant]

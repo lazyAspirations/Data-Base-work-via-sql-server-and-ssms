@@ -1,0 +1,5 @@
+SELECT TOP (1000) [idProf]
+      ,[NomP]
+      ,[PrenomP]
+      ,[Specialite]
+  FROM [Universite].[dbo].[Professeur]
